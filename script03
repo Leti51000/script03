@@ -1,1 +1,3 @@
 #Récupére la liste des groupes dont un utilisateur est membre
+
+$nom = Read-Host "Merci de Rentrer le login de l'utilisateur"
